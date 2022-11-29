@@ -16,7 +16,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import selenium_Project_Testcases.HomeTest;
 import selenium_Project_Testcases.Register;
 import selenium_Project_utility.WebDriverSetup;
-//nevigate to reg using mouse action
+//nevigate to registration using mouse action
 public class RegisterPage {
 	public RegisterPage(){
 		driver= WebDriverSetup.driver;
